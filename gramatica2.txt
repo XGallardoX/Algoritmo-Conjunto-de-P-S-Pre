@@ -1,0 +1,8 @@
+NP ::= Det Nom
+Nom ::= AP X1 | book | orange | man
+X1 ::= Nom
+AP ::= Adv A | heavy | orange | tall
+Det ::= a
+Adv ::= very | X2
+X2 ::= extremely
+A ::= heavy | orange | tall | muscular

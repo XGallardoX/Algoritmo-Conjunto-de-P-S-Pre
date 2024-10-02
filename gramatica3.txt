@@ -1,0 +1,7 @@
+S ::= A B
+A ::= C D | a
+B ::= E F | b
+C ::= c
+D ::= d
+E ::= e
+F ::= f
